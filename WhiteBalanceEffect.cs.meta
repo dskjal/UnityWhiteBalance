@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ec32f38879ebb2646874e70d92808a6f
+timeCreated: 1473878462
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - whiteBalanceShader: {fileID: 4800000, guid: 4701d209c801c754f91f10e1735d4564,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
