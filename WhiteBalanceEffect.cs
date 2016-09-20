@@ -78,7 +78,7 @@ public class WhiteBalanceEffect : MonoBehaviour {
             return;
         }
 
-        if (!WhiteBalance.Equals(oldWhiteBalance)) {
+        if (WhiteBalance != oldWhiteBalance) {
             chromaticAdaptation = getChromaticAdaptationMatrix(WhiteBalance);
             oldWhiteBalance = WhiteBalance;
         }
